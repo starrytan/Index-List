@@ -1,4 +1,4 @@
 # Index-List
 索引列表组件
 
-![](C:\Users\Starry\Desktop\GIF.gif)
+![image](https://github.com/starrytan/Index-List/blob/master/GIF.gif)
