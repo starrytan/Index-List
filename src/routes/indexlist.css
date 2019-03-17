@@ -1,0 +1,39 @@
+.box{
+    width: 500px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    margin: 0 auto;
+    position: relative;
+}
+
+*{
+    padding: 0;
+    margin: 0
+}
+.title{
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+.heard{
+    width:500px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    position: fixed;
+    background-color: whitesmoke;
+}
+.city{
+    padding-left: 10px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px
+}
+.slider{
+   width: 20px;
+   position: fixed;
+   right: 0;
+   top: 20vh;
+   cursor: pointer; 
+}
